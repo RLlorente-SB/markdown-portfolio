@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Lista de entornos de Xamarin
+* iOS
+* UWP
+* Android
